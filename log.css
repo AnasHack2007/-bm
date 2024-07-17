@@ -409,7 +409,7 @@ body{
     }
     
     .hh p{
-        font-size: 23px;
+        font-size: 21px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         width: 270px;
     }  
@@ -451,7 +451,7 @@ body{
     }
     
   .in a{
-    font-size: 16px;
+    font-size: 15px;
     margin-left: -1px;
     margin-top: 50px;
 }
@@ -464,7 +464,7 @@ body{
             font-size: 24px;
             height: 47px;
             width: 290px;
-            margin-left:700px;
+            margin-left:720px;
             margin-top: 50px;
     }
   
