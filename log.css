@@ -254,7 +254,10 @@ body{
         margin-right: -1000px;
     }
     
-    
+    body{
+    background: red;
+    }
+
     .hh h1{
         font-size: 45px;
     }
@@ -329,6 +332,9 @@ body{
         margin-right: -1000px;
     }
     
+    body{
+        background: rgb(4, 0, 255);
+        }
     
     .hh h1{
         font-size: 50px;
@@ -403,6 +409,9 @@ body{
         margin-right: -1000px;
     }
     
+    body{
+        background: rgb(251, 255, 0);
+        }
     
     .hh h1{
         font-size: 55px;
@@ -478,6 +487,9 @@ body{
         margin-right: -1000px;
     }
     
+    body{
+        background: rgb(0, 255, 34);
+        }
     
     .hh h1{
         font-size: 60px;
@@ -557,6 +569,9 @@ body{
         margin-right: -1000px;
     }
     
+    body{
+        background: rgb(195, 0, 255);
+        }
     
     .hh h1{
         font-size: 60px;
